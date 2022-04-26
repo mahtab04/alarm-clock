@@ -19,6 +19,6 @@ Digital Alarm Clock implemented using
 
 
 ## Demo
-You can check the app out [Alarm Clock](hhttps://alarm-clock-1.mahtab04.repl.co/).
+You can check the app out [Alarm Clock](https://alarm-clock-1.mahtab04.repl.co/).
 
 
