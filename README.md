@@ -18,6 +18,7 @@ Digital Alarm Clock implemented using
 ![Alarm List](images/alarm_2.png)
 
 
-##Demo
+## Demo
+You can check the app out [Alarm Clock](hhttps://alarm-clock-1.mahtab04.repl.co/).
 
 
